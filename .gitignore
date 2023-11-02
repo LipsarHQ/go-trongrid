@@ -1,0 +1,21 @@
+# Ignore everything.
+*
+
+# Allow ".gitignore" file.
+!/.gitignore
+
+# Allow "LICENSE" and "README.md" files.
+!LICENSE
+!README.md
+
+# Allow "Makefile" file.
+!Makefile
+
+# Go.
+!.golangci.yml
+!*.go
+!go.mod
+!go.sum
+
+# ...
+!*/
