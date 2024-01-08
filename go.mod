@@ -3,7 +3,7 @@ module github.com/LipsarHQ/go-trongrid
 go 1.20
 
 require (
-	github.com/go-resty/resty/v2 v2.10.0
+	github.com/go-resty/resty/v2 v2.11.0
 	github.com/gorilla/schema v1.2.0
 	github.com/rs/zerolog v1.31.0
 	github.com/stretchr/testify v1.8.4
